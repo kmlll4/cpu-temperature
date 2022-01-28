@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "67a73fdc-cf53-40f2-a020-1a45602d8407": {
+      "ProjectGuid": "67a73fdc-cf53-40f2-a020-1a45602d8407",
+      "DisplayName": "cpu-temperature",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

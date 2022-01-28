@@ -1,0 +1,8 @@
+D:\Users\katsuhiro\Workspace\cpu-temperature\cpu-temperature\bin\Debug\cpu-temperature.exe.config
+D:\Users\katsuhiro\Workspace\cpu-temperature\cpu-temperature\bin\Debug\cpu-temperature.exe
+D:\Users\katsuhiro\Workspace\cpu-temperature\cpu-temperature\bin\Debug\cpu-temperature.pdb
+D:\Users\katsuhiro\Workspace\cpu-temperature\cpu-temperature\obj\Debug\cpu-temperature.csproj.AssemblyReference.cache
+D:\Users\katsuhiro\Workspace\cpu-temperature\cpu-temperature\obj\Debug\cpu-temperature.csproj.SuggestedBindingRedirects.cache
+D:\Users\katsuhiro\Workspace\cpu-temperature\cpu-temperature\obj\Debug\cpu-temperature.csproj.CoreCompileInputs.cache
+D:\Users\katsuhiro\Workspace\cpu-temperature\cpu-temperature\obj\Debug\cpu-temperature.exe
+D:\Users\katsuhiro\Workspace\cpu-temperature\cpu-temperature\obj\Debug\cpu-temperature.pdb
